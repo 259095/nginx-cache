@@ -8,3 +8,5 @@ https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxyi
 
 <h1>Troubleshooting</h1>
 https://serverfault.com/questions/911921/debugging-nginx-cache-misses-hitting-high-number-of-miss-despite-high-proxy-val/912897
+
+testing new gpg setup
