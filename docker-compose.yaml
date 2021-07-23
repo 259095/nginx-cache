@@ -5,11 +5,6 @@ services:
     image: nginx:latest
     ports:
       - 80:80
-    # healthcheck:
-    #   test: ["CMD", "curl", "http://localhost/"]
-    #   interval: 8s
-    #   start_period: 4s
-    #   retries: 2
     tmpfs: /etc/nginx/cache
     volumes:
       - ./usr/share/nginx/html:/usr/share/nginx/html
