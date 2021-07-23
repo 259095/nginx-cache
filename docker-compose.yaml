@@ -7,7 +7,6 @@ services:
       - 80:80
     tmpfs: /etc/nginx/cache
     volumes:
-      - ./usr/share/nginx/html:/usr/share/nginx/html
       - ./usr/share/nginx/json:/usr/share/nginx/json
       - ./etc/nginx/nginx.conf:/etc/nginx/nginx.conf
     restart: always
