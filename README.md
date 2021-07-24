@@ -22,3 +22,5 @@ https://pollin14.github.io/jekyll/update/2018/07/26/micro-caching-with-nginx-and
 https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching
 
 https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms
+
+https://github.com/nginxinc/NGINX-Demos/tree/master/nginx-regex-tester

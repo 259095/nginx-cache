@@ -1,0 +1,46 @@
+{
+    "min_position": 7,
+    "has_more_items": false,
+    "items_html": "Bike",
+    "new_latent_count": 0,
+    "data": {
+       "length": 22,
+       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "numericalArray": [
+       23,
+       26,
+       30,
+       23,
+       32
+    ],
+    "StringArray": [
+       "Oxygen",
+       "Carbon",
+       "Nitrogen",
+       "Nitrogen"
+    ],
+    "multipleTypesArray": 5,
+    "objArray": [
+       {
+          "class": "lower",
+          "age": 1
+       },
+       {
+          "class": "upper",
+          "age": 9
+       },
+       {
+          "class": "upper",
+          "age": 3
+       },
+       {
+          "class": "lower",
+          "age": 0
+       },
+       {
+          "class": "lower",
+          "age": 7
+       }
+    ]
+ }
